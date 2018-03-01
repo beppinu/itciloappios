@@ -5,14 +5,14 @@
         id        = "org.itcilo.ecampus.moodleapp"
         versionCode = "20210"
         version   = "3.4.0">
-    <name>ITCILO eCampus</name>
+    <name>ITCILO&#x2007;eCampus</name>
 
     <description>
-        ITCILO eCampus app
+        ITCILO&#x2007;eCampus&#x2007;app
     </description>
 
     <author href="https://ecampus.itcilo.org/" >
-        ITCILO eCampus team
+        ITCILO&#x2007;eCampus&#x2007;team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
